@@ -1,0 +1,153 @@
+[{
+          "key": "0",
+          "categoryName": "一级分类01",
+          "sortNumber": "sortNumber",
+          "cid": 222,
+          "keyWords": "关键词，关键词，重点字段",
+          "unit": "",
+          "brand": "",
+          "parentCid":-1,
+          "opt": "opt",
+            "children": [{
+              "key": "0-0",
+              "categoryName": "二级分类01",
+              "sortNumber": "sortNumber",
+              "cid": 988,
+              "keyWords": "关键词，关键词，重点字段",
+              "unit": "",
+              "opt": "opt",
+              "parentCid":222
+            },
+              {
+                "key": "0-1",
+                "categoryName": "二级分类02",
+                "sortNumber": "sortNumber",
+                "cid": 987,
+                "keyWords": "关键词，关键词，重点字段",
+                "unit": "",
+                "opt": "opt",
+                "parentCid":222
+              },
+              {
+                "key": "0-2",
+                "categoryName": "二级分类03",
+                "sortNumber": "sortNumber",
+                "cid": 986,
+                "keyWords": "关键词，关键词，重点字段",
+                "unit": "",
+                "opt": "opt",
+                "parentCid":222
+              },
+              {
+                "key": "0-3",
+                "categoryName": "二级分类04",
+                "sortNumber": "sortNumber",
+                "cid": 985,
+                "keyWords": "关键词，关键词，重点字段",
+                "unit": "",
+                "opt": "opt",
+                "parentCid":222
+              },
+            {
+            "key": "0-4",
+            "categoryName": "二级分类05",
+            "sortNumber": "sortNumber",
+            "cid": 333,
+            "keyWords": "关键词，关键词，重点字段",
+            "unit": "",
+            "brand": "",
+            "opt": "opt",
+            "parentCid":222,
+              "children": [{
+                "key": "0-4-0",
+                "categoryName": "3级分类",
+                "sortNumber": "sortNumber",
+                "cid": 444,
+                "keyWords": "关键词，关键词，重点字段",
+                "unit": "",
+                "brand": "",
+                "opt": "opt",
+                "parentCid":333,
+                  "children": [{
+                    "key": "0-4-0-0",
+                    "categoryName": "4级分类01",
+                    "sortNumber": "sortNumber",
+                    "cid": 789,
+                    "keyWords": "关键词，关键词，重点字段",
+                    "unit": "个、桶、箱、包、本、斤",
+                    "brand": "",
+                    "opt": "opt",
+                    "parentCid":444
+                  },
+                    {
+                      "key": "0-4-0-1",
+                      "categoryName": "4级分类02",
+                      "sortNumber": "sortNumber",
+                      "cid": 456,
+                      "keyWords": "关键词b，关键词b，重点字段b",
+                      "unit": "个、桶、箱、包、本、斤",
+                      "brand": "",
+                      "opt": "opt",
+                      "parentCid":444
+                    },
+                    {
+                      "key": "0-4-0-2",
+                      "categoryName": "4级分类03",
+                      "sortNumber": "sortNumber",
+                      "cid": 123,
+                      "keyWords": "关键词c，关键词4c，重点字段c",
+                      "unit": "个、桶、箱、包、本、斤",
+                      "brand": "",
+                      "opt": "opt",
+                      "parentCid":444
+                    },
+                    {
+                      "key": "0-4-0-3",
+                      "categoryName": "4级分类04",
+                      "sortNumber": "sortNumber",
+                      "cid": 124443,
+                      "keyWords": "关键词d，关键词4d，重点字段d",
+                      "unit": "个、桶、箱、包、本、斤",
+                      "brand": "",
+                      "opt": "opt",
+                      "parentCid":444
+                    }
+                  ]
+              }]
+
+          }]
+      },
+          {
+            "key": "1",
+            "categoryName": "一级分类02",
+            "sortNumber": "sortNumber",
+            "cid": 666,
+            "keyWords": "关键词，关键词，重点字段",
+            "unit": "个、桶、箱、包、本、斤",
+            "brand": "",
+            "opt": "opt",
+            "parentCid":-1
+          }
+  ,{
+  "key": "2",
+  "categoryName": "一级分类02",
+  "sortNumber": "sortNumber",
+  "cid": 10009,
+  "keyWords": "关键词，关键词，重点字段",
+  "unit": "个、桶、箱、包、本、斤",
+  "brand": "",
+  "opt": "opt",
+  "parentCid":-1
+},
+  {
+    "key": "3",
+    "categoryName": "一级分类02",
+    "sortNumber": "sortNumber",
+    "cid": 1000100,
+    "keyWords": "关键词，关键词，重点字段",
+    "unit": "个、桶、箱、包、本、斤",
+    "brand": "",
+    "opt": "opt",
+    "parentCid":-1
+  }
+]

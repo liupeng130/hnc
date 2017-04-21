@@ -1,0 +1,8 @@
+.ui-header{height:66px;border-bottom:2px solid #e9e9e9}
+.ui-header h2{float:left;margin-left:20px;line-height:64px;font-size:16px;color:#33aefe}
+.ui-header .userInfo{float:right;border-left:1px solid #ececec;padding-left:30px;padding-right:10px;}
+.ui-header .ui-badge{width:50px;}
+.ui-header .ant-badge-count{height:16px;padding:0 3px;}
+.ui-header .ant-badge-count .ant-scroll-number-only{margin-top:-2px;height:18px;}
+.ui-header .mBadge .ant-badge-count{line-height:14px;}
+

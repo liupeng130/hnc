@@ -1,0 +1,56 @@
+{
+  "code": "0",
+  "msg": "查询成功",
+  "data": {
+    "startIndex": 1,
+    "pageSize": 10,
+    "totalCount": 1,
+    "orderField": null,
+    "orderType": null,
+    "result": [
+      {
+        "platformId": 2,
+        "itemId": 4,
+        "firstCategoryName": "test category1",
+        "secondCategoryName": "test category2",
+        "thirdCategoryName": "test category3",
+        "fourthCategoryName": "test category4",
+        "pictureUrl": "/test/img/url",
+        "itemName": "ss",
+        "saleNum": null,
+        "minSupplyPrice": 10.33,
+        "maxSupplyPrice": 19.99,
+        "created": 1487347200000,
+        "createdStr": "2017-2-18 13:54:44",
+        "sellerId": 222,
+        "shopId": 1,
+        "supplySellerId": 1,
+        "supplyShopId": 1,
+        "operatorId": 1,
+        "saleStatus": 20,
+        "storeStatus": 10,
+        "itemSupplyAuditSkuList": [
+          {
+            "skuId": 3,
+            "pictureUrl": "sku/url",
+            "attributes": "color:红色",
+            "supplyPrice": "19.99,12.66",
+            "saleNum": null
+          },
+          {
+            "skuId": 16,
+            "pictureUrl": "sku/url2",
+            "attributes": null,
+            "supplyPrice": "10.33",
+            "saleNum": null
+          }
+        ]
+      }
+    ],
+    "firstPage": true,
+    "prevPage": 1,
+    "pageCount": 1,
+    "nextPage": 2,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,6 @@
+[
+  {price:null,area:[{areaId:-1,areaName:'全国',value:'-1,全国'}]},
+  {price:100,area:[{areaId:42,areaName:'湖北省',value:'42,湖北省'},{areaId:63,areaName:'青海省',value:'63,青海省'}]},
+  {price:200,area:[{areaId:71,areaName:'台湾省',value:'71,台湾省'}]},
+  {price:'',area:[{areaId:83,areaName:'钓鱼岛',value:'83,钓鱼岛'}]},
+]

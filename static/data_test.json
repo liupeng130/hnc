@@ -1,0 +1,60 @@
+ const data = [{
+          key: '1',
+          category: '一级分类',
+          sort: 'sort',
+          id: '123456',
+          keyword: '关键词，关键词，重点字段',
+          unit: '',
+          brand: '',
+          opt: 'opt',
+          children: [{
+              key: '11',
+              category: '二级分类',
+              sort: 'sort',
+              id: '123456',
+              keyword: '关键词，关键词，重点字段',
+              unit: '',
+              brand: '',
+              opt: 'opt',
+          },{
+              key: '21',
+              category: '二级分类',
+              sort: 'sort',
+              id: '123456',
+              keyword: '关键词，关键词，重点字段',
+              unit: '',
+              brand: '',
+              opt: 'opt',
+              children: [{
+                  key: '31',
+                  category: '三级分类',
+                  sort: 'sort',
+                  id: '123456',
+                  keyword: '关键词，关键词，重点字段',
+                  unit: '',
+                  brand: '',
+                  opt: 'opt',
+                  children: [{
+                      key: '41',
+                      category: '四级分类',
+                      sort: 'sort',
+                      id: '123456',
+                      keyword: '关键词，关键词，重点字段',
+                      unit: '个、桶、箱、包、本、斤',
+                      brand: '',
+                      opt: 'opt',
+                  }]
+              }]
+
+          }]
+      },
+          {
+              key: '2',
+              category: '一级分类',
+              sort: 'sort',
+              id: '123456',
+              keyword: '关键词，关键词，重点字段',
+              unit: '个、桶、箱、包、本、斤',
+              brand: '',
+              opt: 'opt',
+          }]

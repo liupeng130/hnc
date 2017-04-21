@@ -1,0 +1,66 @@
+{
+  "code": "0",
+  "msg": null,
+  "data": [
+    {
+      "cid": 1000070,
+      "parentCid": -1,
+      "platformId": 2,
+      "categoryName": "化工/涂料",
+      "status": 1,
+      "lev": 1,
+      "hasLeaf": 2,
+      "sortNumber": 1,
+      "homeShow": 2,
+      "created": null,
+      "modified": null,
+      "keyWords":"关键词",
+      "unit":null
+    },
+    {
+      "cid": 1000064,
+      "parentCid": -1,
+      "platformId": 2,
+      "categoryName": "安防/消防",
+      "status": 1,
+      "lev": 1,
+      "hasLeaf": 2,
+      "sortNumber": 2,
+      "homeShow": 1,
+      "created": null,
+      "modified": null,
+      "keyWords":"关键词",
+      "unit":null
+    },
+    {
+      "cid": 1000071,
+      "parentCid": -1,
+      "platformId": 2,
+      "categoryName": "五金/建材",
+      "status": 1,
+      "lev": 1,
+      "hasLeaf": 2,
+      "sortNumber": 3,
+      "homeShow": 2,
+      "created": null,
+      "modified": null,
+      "keyWords":"关键词",
+      "unit":null
+    },
+    {
+      "cid": 1000076,
+      "parentCid": -1,
+      "platformId": 2,
+      "categoryName": "酒店/家具/礼品",
+      "status": 1,
+      "lev": 1,
+      "hasLeaf": 2,
+      "sortNumber": 5,
+      "homeShow": 2,
+      "created": null,
+      "modified": null,
+      "keyWords":"关键词",
+      "unit":null
+    }
+  ]
+}

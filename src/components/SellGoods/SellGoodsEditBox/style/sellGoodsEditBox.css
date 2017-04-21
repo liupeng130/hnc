@@ -1,0 +1,12 @@
+.sumTr{ background: #f7f7f7;}
+.txt-red{ color: #e4393c;}
+.txt-blue{ color: #36aeff; }
+.ml10{ margin-left: 10px; }
+.mr10{ margin-right: 10px; }
+.fr{ float: right; }
+.fb{ font-weight: bold; }
+table{ width: 100%; border-collapse: collapse;}
+table tr{ border-bottom: 1px solid #e7e7eb;}
+table tr:last-child{ border-bottom: none; }
+table td{ padding: 16px 0 16px 10px;}
+.sumTr td{ padding: 10px 0 10px 10px; }

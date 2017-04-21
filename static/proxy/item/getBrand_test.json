@@ -1,0 +1,20 @@
+{
+  "code": "0",
+  "msg": null,
+  "data": [{
+      "brandNameCh": "雪佛兰1",
+      "id": "123"
+    }, {
+      "brandNameCh": "雪佛兰2",
+      "id": "124"
+    }, {
+      "brandNameCh": "雪佛兰3",
+      "id": "125"
+    }, {
+      "brandNameCh": "雪佛兰4",
+      "id": "126"
+    },{
+      "brandNameCh": "雪佛兰1",
+      "id": "127"
+    }]
+}

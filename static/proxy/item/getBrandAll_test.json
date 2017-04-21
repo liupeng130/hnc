@@ -1,0 +1,41 @@
+{
+  "code": "0",
+  "msg": null,
+  "data": [{
+      "brandNameCh": "雪佛兰1",
+      "id": "1230"
+    }, {
+      "brandNameCh": "雪佛兰2",
+      "id": "1239"
+    }, {
+      "brandNameCh": "雪佛兰3",
+      "id": "1221"
+    }, {
+      "brandNameCh": "雪佛兰4",
+      "id": "1222"
+    },{
+      "brandNameCh": "雪佛兰1",
+      "id": "1231"
+    }, {
+      "brandNameCh": "雪佛兰2",
+      "id": "1232"
+    }, {
+      "brandNameCh": "雪佛兰3",
+      "id": "1233"
+    }, {
+      "brandNameCh": "雪佛兰4",
+      "id": "1234"
+    },{
+      "brandNameCh": "雪佛兰1",
+      "id": "1235"
+    }, {
+      "brandNameCh": "雪佛兰2",
+      "id": "1236"
+    }, {
+      "brandNameCh": "雪佛兰3",
+      "id": "1237"
+    }, {
+      "brandNameCh": "雪佛兰4",
+      "id": "1238"
+    }]
+}
